@@ -5,7 +5,7 @@ so wherever you place WordOFTheDay.txt file make sure to change the path        
 do the same thing for line 46             start wmplayer.exe ""C:\Users\ASUS\Desktop\howdy-partner.mp3""              EZ I guess
 for running it everytime you log in to your PC make sure to place daily.bat file in C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup  obviously you shloud change Username with your actual username.  XD
 
-and i guess you want to change the name Radmehr to your name too  :)))
+and I guess you want to change the name Radmehr to your name too  :)))
 
 
 
